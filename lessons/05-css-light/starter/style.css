@@ -1,7 +1,7 @@
 /* Базовые стили — усиль цвета и размеры */
 body {
   font-family: system-ui, sans-serif;
-  background: #eee;
+  background: #530f0f;
   color: #333;
   margin: 0;
   padding: 24px;
@@ -10,13 +10,13 @@ body {
 .poster {
   max-width: 480px;
   margin: 0 auto;
-  padding: 16px;
-  background: #fff;
+  padding: 19px;
+  background: #f0aeae;
   border: 1px solid #ccc;
 }
 
 h1 {
-  font-size: 1.4rem;
+  font-size: 4rem;
   margin-top: 0;
 }
 
@@ -28,6 +28,6 @@ h1 {
 button {
   padding: 8px 12px;
   border: 1px solid #333;
-  background: #ddd;
+  background: #8f4646;
   cursor: pointer;
 }
